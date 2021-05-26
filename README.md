@@ -1,4 +1,4 @@
-# DSA_J-Comp
+
 Job Scheduling Project  - Consisting of Working Code | Power point Presentation | Review Paper
 Here I present our project based on various algorithms required for Job Scheduling.
 
