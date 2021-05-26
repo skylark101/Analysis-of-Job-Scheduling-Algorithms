@@ -10,8 +10,3 @@ Algorithms used  :
 
 There is a vivid analysis on all these algorithms and we have tried to find the best and most optimised algorithm for every different data set.
 
-Contributors : 
-    Ansh Khattar
-    Anmol Mishra
-    Ritik Agarwal
-
